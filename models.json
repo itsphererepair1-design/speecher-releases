@@ -1,0 +1,132 @@
+﻿{
+  "small": {
+    "kind": "asr",
+    "title": "Whisper small",
+    "repo": "Systran/faster-whisper-small",
+    "total_size": 486212372,
+    "files": [
+      {
+        "name": "config.json",
+        "size": 2370,
+        "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828",
+        "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/config.json"
+      },
+      {
+        "name": "model.bin",
+        "size": 483546902,
+        "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671",
+        "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/model.bin"
+      },
+      {
+        "name": "tokenizer.json",
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
+        "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/tokenizer.json"
+      },
+      {
+        "name": "vocabulary.txt",
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913",
+        "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/main/vocabulary.txt"
+      }
+    ]
+  },
+  "medium": {
+    "kind": "asr",
+    "title": "Whisper medium",
+    "repo": "Systran/faster-whisper-medium",
+    "total_size": 1530571735,
+    "files": [
+      {
+        "name": "config.json",
+        "size": 2257,
+        "sha256": "3622a2ddc41ec0e0fd4e68c13c6830f03b90c38d89aaad184de02c8c642cf807",
+        "url": "https://huggingface.co/Systran/faster-whisper-medium/resolve/main/config.json"
+      },
+      {
+        "name": "model.bin",
+        "size": 1527906378,
+        "sha256": "9b45e1009dcc4ab601eff815b61d80e60ce3fd8c74c1a14f4a282258286b51ae",
+        "url": "https://huggingface.co/Systran/faster-whisper-medium/resolve/main/model.bin"
+      },
+      {
+        "name": "tokenizer.json",
+        "size": 2203239,
+        "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab",
+        "url": "https://huggingface.co/Systran/faster-whisper-medium/resolve/main/tokenizer.json"
+      },
+      {
+        "name": "vocabulary.txt",
+        "size": 459861,
+        "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913",
+        "url": "https://huggingface.co/Systran/faster-whisper-medium/resolve/main/vocabulary.txt"
+      }
+    ]
+  },
+  "large-v3": {
+    "kind": "asr",
+    "title": "Whisper large-v3",
+    "repo": "Systran/faster-whisper-large-v3",
+    "total_size": 3090835702,
+    "files": [
+      {
+        "name": "config.json",
+        "size": 2394,
+        "sha256": "a9306624f5ec14270a014b647e5c316b6e03a662c369758d1b90697a7b0655b9",
+        "url": "https://huggingface.co/Systran/faster-whisper-large-v3/resolve/main/config.json"
+      },
+      {
+        "name": "model.bin",
+        "size": 3087284237,
+        "sha256": "69f74147e3334731bc3a76048724833325d2ec74642fb52620eda87352e3d4f1",
+        "url": "https://huggingface.co/Systran/faster-whisper-large-v3/resolve/main/model.bin"
+      },
+      {
+        "name": "preprocessor_config.json",
+        "size": 340,
+        "sha256": "7ccc62c6f2765af1f3b46c00c9b5894426835a05021c8b9c01eecb6dfb542711",
+        "url": "https://huggingface.co/Systran/faster-whisper-large-v3/resolve/main/preprocessor_config.json"
+      },
+      {
+        "name": "tokenizer.json",
+        "size": 2480617,
+        "sha256": "6d8cbd7cd0d8d5815e478dac67b85a26bbe77c1f5e0c6d76d1ce2abc0e5f21ca",
+        "url": "https://huggingface.co/Systran/faster-whisper-large-v3/resolve/main/tokenizer.json"
+      },
+      {
+        "name": "vocabulary.json",
+        "size": 1068114,
+        "sha256": "c69260f2ab26d659b7c398f9a2b2b48ed0df16c3b47d7326782fd9cba71690c1",
+        "url": "https://huggingface.co/Systran/faster-whisper-large-v3/resolve/main/vocabulary.json"
+      }
+    ]
+  },
+  "qwen3-4b": {
+    "kind": "llm",
+    "title": "Qwen3 4B Instruct (Q4_K_M)",
+    "repo": "unsloth/Qwen3-4B-Instruct-2507-GGUF",
+    "total_size": 2497281120,
+    "files": [
+      {
+        "name": "Qwen3-4B-Instruct-2507-Q4_K_M.gguf",
+        "size": 2497281120,
+        "sha256": "3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597",
+        "url": "https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf"
+      }
+    ]
+  },
+  "qwen3-8b": {
+    "kind": "llm",
+    "title": "Qwen3 8B (Q4_K_M)",
+    "repo": "Qwen/Qwen3-8B-GGUF",
+    "total_size": 5027783488,
+    "files": [
+      {
+        "name": "Qwen3-8B-Q4_K_M.gguf",
+        "size": 5027783488,
+        "sha256": "d98cdcbd03e17ce47681435b5150e34c1417f50b5c0019dd560e4882c5745785",
+        "url": "https://huggingface.co/Qwen/Qwen3-8B-GGUF/resolve/main/Qwen3-8B-Q4_K_M.gguf"
+      }
+    ]
+  }
+}
