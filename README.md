@@ -133,6 +133,18 @@ Get-FileHash .\SpeecherSetup-1.2.1.exe -Algorithm SHA256
 
 Список изменений каждой версии — на [странице релизов](https://github.com/itsphererepair1-design/speecher-releases/releases).
 
+## Кто это делает
+
+Speecher я делаю сам, для себя и своих задач — а раз получилось, пусть
+пользуются все. Про то, как он устроен изнутри, что ломалось по дороге
+и что я вообще собираю из нейросетей, пишу здесь:
+
+- 📷 **Instagram** — [@ai_solutions.pro](https://www.instagram.com/ai_solutions.pro/)
+- ✈️ **Telegram** — [@Ai_solutions_PR0](https://t.me/Ai_solutions_PR0)
+
+Заходи, если интересно. Там же проще всего написать, если Speecher
+пригодился, чего-то не хватает или что-то пошло не так.
+
 ## Нашёл проблему с безопасностью?
 
 Не открывай публичный Issue — напиши мне лично через вкладку **Security** →
