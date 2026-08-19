@@ -49,7 +49,7 @@ Speecher делает один человек в свободное время �
 Звук уходит только тому сервису распознавания, который выбран
 в настройках, а в локальном режиме не покидает компьютер вовсе.
 Подробности — раздел «Приватность»
-в [README](https://github.com/itsphererepair1-design/speecher-releases#приватность).
+в [README](https://github.com/Ai-Solutions-Pro/speecher-releases#приватность).
 
 ## Проверка скачанного файла
 
@@ -63,7 +63,7 @@ Get-FileHash .\SpeecherSetup-1.2.1.exe -Algorithm SHA256
 Полученная строка должна совпасть с той, что в `SHA256SUMS.txt`.
 Не совпала — файл повреждён или подменён, запускать не надо.
 
-Качать стоит только со [страницы релизов этого репозитория](https://github.com/itsphererepair1-design/speecher-releases/releases/latest).
+Качать стоит только со [страницы релизов этого репозитория](https://github.com/Ai-Solutions-Pro/speecher-releases/releases/latest).
 За сборки, выложенные где-то ещё, я не отвечаю — я их не собирал.
 
 ## О предупреждении Windows
