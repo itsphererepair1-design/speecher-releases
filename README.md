@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/logo-light.png#gh-light-mode-only" alt="Speecher" width="440">
-  <img src="assets/logo-dark.png#gh-dark-mode-only" alt="Speecher" width="440">
+  <img src="assets/logo.png" alt="Speecher" width="440">
 </p>
 
 <p align="center">
