@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
-    <img src="assets/logo-light.png" alt="Speecher" width="440">
-  </picture>
+  <img src="assets/logo-light.png#gh-light-mode-only" alt="Speecher" width="440">
+  <img src="assets/logo-dark.png#gh-dark-mode-only" alt="Speecher" width="440">
 </p>
 
 <p align="center">
